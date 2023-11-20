@@ -53,3 +53,9 @@ glue
 
 install.packages('package')
 ```
+
+### 0. Libs
+
+conda install -c anaconda scikit-image
+conda install -c anaconda statsmodels
+conda install -c conda-forge plotly
